@@ -1,0 +1,11 @@
+spring:
+  activemq:
+    broker-url: tcp://localhost:61616
+  jms:
+    pub-sub-domain: true
+    
+inbound:
+  endpoint: USER.PROCESSIND.D
+  
+jaxb:
+  package:  com.az.consumer.model

@@ -1,0 +1,5 @@
+com\az\consumer\config\JsmConsumerConfig.class
+com\az\consumer\JmsConsumerApplication.class
+com\az\consumer\component\ConsumerComponent.class
+com\az\consumer\model\User.class
+com\az\consumer\model\UserCollection.class
